@@ -10,6 +10,6 @@ while(num!=0)
 c++;
 num=num/10;
 }
-printf("%d",count);
+printf("%d",c);
 return 0;
 }
